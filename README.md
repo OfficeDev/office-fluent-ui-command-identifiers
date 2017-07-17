@@ -1,14 +1,15 @@
+Office Fluent UI Command Identifiers
+===============
 
-# Contributing
+This GitHub repo houses all of the command identifiers for Office applications that are currently under mainstream support.
+ - <a href="Office 2013">Office 2013</a>
+ - <a href="Office 2016/Perpetual-RTM">Office 2016 (RTM)</a>
+ - <a href="Office 2016/Office365-Current-Channel">Office 365 (Current Channel)</a>
+ - <a href="Office 2016/Office365-First-Release-for-Deferred-Channel">Office 365 (First Release for Deferred Channel)</a>
+ - <a href="Office 2016/Office365-Deferred-Channel">Office 365 (Deferred Channel)</a>
+ 
+ <br/>
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.microsoft.com.
-
-When you submit a pull request, a CLA-bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+To learn more about how to use these identifiers to customize the Office ribbon, backstage, and context menus visit:
+ - [Customizing the Office Fluent Ribbon for Developers](https://msdn.microsoft.com/en-us/library/aa338202(v=office.14).aspx)
+ - [Introduction to the Office Backstage View for Developers](https://msdn.microsoft.com/en-us/library/ee691833(office.14).aspx)
