@@ -1,8 +1,7 @@
-
 Office Fluent UI Command Identifiers
 ===============
 
-This GitHub repo houses all of the command identifiers for Office applications that are currently under mainstream support.
+This GitHub repo contains all the Office Fluent UI command identifiers for applications that are currently under mainstream support:
  - <a href="Office 2013">Office 2013</a>
  - <a href="Office 2016/Perpetual-RTM">Office 2016 (RTM)</a>
  - <a href="Office 2016/Office365-Current-Channel">Office 365 (Current Channel)</a>
