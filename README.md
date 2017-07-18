@@ -1,3 +1,4 @@
+
 Office Fluent UI Command Identifiers
 ===============
 
@@ -8,7 +9,15 @@ This GitHub repo houses all of the command identifiers for Office applications t
  - <a href="Office 2016/Office365-First-Release-for-Deferred-Channel">Office 365 (First Release for Deferred Channel)</a>
  - <a href="Office 2016/Office365-Deferred-Channel">Office 365 (Deferred Channel)</a>
  
- <br/>
+<br/>
+<br/>
+
+Pro tip: If you only need to find control names, you can discover them within Office applications by hovering over commands in the QAT (Quick Access Toolbar) customization dialog and looking at the tooltip:
+
+> ![QAT Customization Dialog](/html-assets/qat-namex.png?raw=true)
+
+<br/>
+<br/>
 
 To learn more about how to use these identifiers to customize the Office ribbon, backstage, and context menus visit:
  - [Customizing the Office Fluent Ribbon for Developers](https://msdn.microsoft.com/en-us/library/aa338202(v=office.14).aspx)
