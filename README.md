@@ -1,3 +1,11 @@
+---
+topic: sample
+products:
+- Office 365
+extensions:
+  contentType: tools
+  createdDate: 7/12/2017 12:34:56 PM
+---
 Office Fluent UI Command Identifiers
 ===============
 
